@@ -5,3 +5,4 @@ services:
         image: gluonts-apps
         volumes:
             - ./notebooks:/root/notebooks
+            - ./data:/root/data

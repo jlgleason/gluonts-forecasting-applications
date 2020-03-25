@@ -6,3 +6,4 @@ services:
         volumes:
             - ./notebooks:/root/notebooks
             - ./data:/root/data
+            - ./gluon-ts:/root/gluon-ts

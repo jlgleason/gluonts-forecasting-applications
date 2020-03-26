@@ -1,3 +1,3 @@
 jupyter
 mxnet==1.6 
-gluonts
+sentence_transformers

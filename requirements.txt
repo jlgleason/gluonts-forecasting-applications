@@ -1,4 +1,4 @@
 jupyter
-mxnet==1.6 
+mxnet==1.9.1 
 sentence_transformers
 scikit-learn
